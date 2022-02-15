@@ -1,9 +1,10 @@
-### Hi there, I'm Pablo Peculio 👋👨‍💻
+### Hi there 👋👨‍💻
 
-[!](imgur.com/a/xzPFoyw)
+![me](https://user-images.githubusercontent.com/57294943/154128187-a0df7da6-57c0-47ab-8183-6fc201b53edd.png)
 
 <h2>🌎 Peccolo 🌎</h2>
-<p> Peccolo es una página web creada con React. La misma busca darle un look más moderno a su <a href="https://peccolosanitariayherreria.com">versión anterior.</a> </p>
+<p>Peccolo es una página web creada con React. La misma busca darle un look más moderno a su <a href="https://peccolosanitariayherreria.com">versión anterior.</a> </p>
+<p>Para el diseño de la misma utilicé figma <a href="https://www.figma.com/file/qUQlRplIfblV6dNrjR5dJ1/Untitled?node-id=0%3A1">llegando a este resultado.</a></p> 
 
 <h3>Nueva <a href="https://peccolo.vercel.app/">versión</a> (aún en desarrollo) </h3>
 

@@ -33,7 +33,19 @@
 <h2>🌎 CoronaTickets.uy 🌎</h2>
 <p>Laboratorio realizado en equipo, para la materia Programación de Aplicaciones. Para este proyecto se implementó base de datos, servidor central, api REST, servidor web.</p>
 <a target="_blank" href="https://prezi.com/view/Lf5wWlXjAaK3sFJSIMN9/">Más info.</a>
+<!--
+Diseños en Adobe XD
 
+![ALTA USUARIO](https://user-images.githubusercontent.com/57294943/154135985-961e5457-ef9a-4aa0-9507-2094f185dba0.png)
+![ARTISTA](https://user-images.githubusercontent.com/57294943/154135992-eb7d0800-c025-4767-bc44-45199f3bf1fd.png)
+![DETALLE DE PAQUETE](https://user-images.githubusercontent.com/57294943/154135993-5018c88a-3b2b-49da-a71b-6e700728ac9e.png)
+![ESPECTÁCULOS DE UN PAQUETE](https://user-images.githubusercontent.com/57294943/154135996-f7b91d0e-830c-4034-a810-e96539af1b02.png)
+![INICIO SESION](https://user-images.githubusercontent.com/57294943/154136000-19b8db3a-a183-4996-b39f-2b8c3ee46e09.png)
+![LOGUEADO](https://user-images.githubusercontent.com/57294943/154136002-daf922f3-3b0e-4ed6-88c7-63a4ad1b6143.png)
+![VISITANTE](https://user-images.githubusercontent.com/57294943/154136014-8dfbc484-8e82-4f9d-b62b-e57590698a42.png)
+![ALTA DE ESPECTÁCULO](https://user-images.githubusercontent.com/57294943/154136021-5b489259-5cef-4976-b517-e9158a89dd3b.png)
+![ALTA USUARIO POP UP](https://user-images.githubusercontent.com/57294943/154136022-e12faf88-df1c-4bcb-8445-ab99d9b7e585.png)
+-->
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ju0w1&repo=coronaTickets.uy)](https://github.com/Ju0w1/coronaTickets.uy/tree/desarrollo)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ju0w1&repo=ApiRest-CoronaTickets.uy)](https://github.com/Ju0w1/ApiRest-CoronaTickets.uy/tree/desarrollo)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ju0w1&repo=coronaTickets.uy-WEB)](https://github.com/Ju0w1/coronaTickets.uy-WEB/tree/complexMergeVWEB)
@@ -56,4 +68,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->

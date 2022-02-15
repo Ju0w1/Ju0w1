@@ -4,7 +4,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Pablo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pablo-peculio)](https://www.linkedin.com/in/pablo-peculio) [![Gmail Badge](https://img.shields.io/badge/-pablo.peculio@estudiantes.utec.edu.uy-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pablo.peculio@estudiantes.utec.edu.uy)](mailto:pablo.peculio@estudiantes.utec.edu.uy)
 
-##### Languajes que utilizo
+<h2>💡 Lenguajes que utilizo 💡</h2>
 
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
@@ -14,7 +14,7 @@
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
 
-##### Tecnologías con las que he trabajado
+<h2>🛠️ Tecnologías con las que he trabajado 🛠️</h2>
 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-222222?flat&logo=bootstrap&logoColor=white)
 ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)

@@ -5,7 +5,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Pablo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pablo-peculio)](https://www.linkedin.com/in/pablo-peculio) [![Gmail Badge](https://img.shields.io/badge/-pablo.peculio@estudiantes.utec.edu.uy-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pablo.peculio@estudiantes.utec.edu.uy)](mailto:pablo.peculio@estudiantes.utec.edu.uy)
 
 <br/>
-<br/>
 
 <h2>💡 Lenguajes que utilizo 💡</h2>
 
@@ -25,7 +24,6 @@
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=white)
 
-<br/>
 <br/>
 
 <h2>🌎 Peccolo 🌎</h2>

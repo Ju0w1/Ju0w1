@@ -26,6 +26,16 @@
 
 <br/>
 
+<h2>🌎 Mi portfolio 🌎</h2>
+
+<p>Esta es una web creada con React junto con Chakra UI para mostrar mis trabajos e información personal.</p>
+
+<h3><a target="_blank" href="https://my-portfolio-teal-six.vercel.app/">My portfolio</a></h3>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ju0w1&repo=my-portfolio)](https://github.com/Ju0w1/my-portfolio)
+
+<br/>
+
 <h2>🌎 Peccolo 🌎</h2>
 <p>Peccolo es una página web creada con React. La misma busca darle un look más moderno a su <a target="_blank" href="https://peccolosanitariayherreria.com">versión anterior.</a> </p>
 <p>Para el diseño de la misma utilicé figma <a target="_blank" href="https://www.figma.com/file/qUQlRplIfblV6dNrjR5dJ1/Untitled?node-id=0%3A1">llegando a este resultado.</a></p> 

@@ -26,7 +26,7 @@
 
 <br/>
 
-<h2>🌎 Mi portfolio 🌎</h2>
+<h2>🔗 Mi portfolio 🔗</h2>
 
 <p>Esta es una web creada con React junto con Chakra UI para mostrar mis trabajos e información personal.</p>
 
@@ -36,7 +36,7 @@
 
 <br/>
 
-<h2>🌎 Peccolo 🌎</h2>
+<h2>🔧 Peccolo 🔧</h2>
 <p>Peccolo es una página web creada con React. La misma busca darle un look más moderno a su <a target="_blank" href="https://peccolosanitariayherreria.com">versión anterior.</a> </p>
 <p>Para el diseño de la misma utilicé figma <a target="_blank" href="https://www.figma.com/file/qUQlRplIfblV6dNrjR5dJ1/Untitled?node-id=0%3A1">llegando a este resultado.</a></p> 
 
@@ -44,7 +44,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ju0w1&repo=peccolo)](https://github.com/Ju0w1/peccolo)
 
-<h2>🌎 CoronaTickets.uy 🌎</h2>
+<h2>🦠 CoronaTickets.uy 🦠</h2>
 <p>Laboratorio realizado en equipo, para la materia Programación de Aplicaciones. Para este proyecto se implementó base de datos, servidor central, api REST, servidor web.</p>
 <a target="_blank" href="https://prezi.com/view/Lf5wWlXjAaK3sFJSIMN9/">Más info.</a>
 

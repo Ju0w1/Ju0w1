@@ -40,9 +40,9 @@
 <p>Peccolo es una página web creada con React. La misma busca darle un look más moderno a su <a target="_blank" href="https://peccolosanitariayherreria.com">versión anterior.</a> </p>
 <p>Para el diseño de la misma utilicé figma <a target="_blank" href="https://www.figma.com/file/qUQlRplIfblV6dNrjR5dJ1/Untitled?node-id=0%3A1">llegando a este resultado.</a></p> 
 
-<h3>Nueva <a target="_blank" href="https://peccolo.vercel.app/">versión</a> (aún en desarrollo) </h3>
+<h3>Nueva <a target="_blank" href="https://web-peccolo.vercel.app/">versión</a> (aún en desarrollo) </h3>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ju0w1&repo=peccolo)](https://github.com/Ju0w1/peccolo)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ju0w1&repo=web-peccolo)](https://github.com/Ju0w1/web-peccolo)
 
 <h2>🦠 CoronaTickets.uy 🦠</h2>
 <p>Laboratorio realizado en equipo, para la materia Programación de Aplicaciones. Para este proyecto se implementó base de datos, servidor central, api REST, servidor web.</p>

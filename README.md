@@ -36,6 +36,14 @@
 
 <br/>
 
+<h2>📷 Fotostalk 📷</h2>
+<p>Fotostalk es una página web creada solamente con HTML, CSS y Javascript. La misma fue creada para un laboratorio de la materia RIA de la carrera Tencnólogo en informática.
+<a target="_blank" href="https://fotostalk.vercel.app/">Resultado obtenido.</a>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ju0w1&repo=fotostalk)](https://github.com/Ju0w1/fotostalk)
+
+<br/>
+
 <h2>🔧 Peccolo 🔧</h2>
 <p>Peccolo es una página web creada con React. La misma busca darle un look más moderno a su <a target="_blank" href="https://peccolosanitariayherreria.com">versión anterior.</a> </p>
 <p>Para el diseño de la misma utilicé figma <a target="_blank" href="https://www.figma.com/file/qUQlRplIfblV6dNrjR5dJ1/Untitled?node-id=0%3A1">llegando a este resultado.</a></p> 

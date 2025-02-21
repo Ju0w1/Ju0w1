@@ -2,7 +2,7 @@
 
 ![me](https://user-images.githubusercontent.com/57294943/154128187-a0df7da6-57c0-47ab-8183-6fc201b53edd.png)
 
-[![Linkedin Badge](https://img.shields.io/badge/-Pablo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pablo-peculio)](https://www.linkedin.com/in/pablo-peculio) [![Gmail Badge](https://img.shields.io/badge/-ppeculio.pablo@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ppeculio.pablo@gmail.com)](mailto:ppeculio.pablo@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Pablo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pablo-peculio)](https://www.linkedin.com/in/pablo-peculio) [![Gmail Badge](https://img.shields.io/badge/-peculio.pablo@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:peculio.pablo@gmail.com)](mailto:peculio.pablo@gmail.com)
 
 <br/>
 
